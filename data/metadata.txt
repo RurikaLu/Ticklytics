@@ -1,0 +1,42 @@
+Метаданные набора данных
+========================================
+
+Описания столбцов
+----------------------------------------
+grade: grade
+major: major
+gender: gender
+age: age
+TME: time management Experience
+DOR: Days of recording
+TP: Total planned
+TC: Total completed
+ccc: Completed category count
+PCR: Planned completion rate
+DIL: Daily independent learning time (min)
+DET: Daily extracurricular time (min)
+DSE: Daily self-evaluation scores
+
+Расшифровка значений
+----------------------------------------
+
+grade:
+  21.0 = first iteration
+  22.0 = second iteration
+  23.0 = third iteration
+
+major:
+  1.0 = EDUCATIONAL TECHNOLOGY1
+  2.0 = EDUCATIONAL TECHNOLOGY2
+  3.0 = digital media
+
+gender:
+  1.0 = male
+  2.0 = female
+
+TME:
+  1.0 = No experience at all.
+  2.0 = I've heard of it, but I've never done it myself.
+  3.0 = Tried but didn't stick to it.
+  4.0 = Have my own personalized experience.
+  5.0 = Other
